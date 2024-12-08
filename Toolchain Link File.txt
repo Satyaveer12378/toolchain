@@ -1,0 +1,1 @@
+https://support.garz-fricke.com/projects/Linux-Yocto/Releases/Yocto-dunfell-19.0/imx6guf/sdk/guf-wayland-glibc-x86_64-guf-image-armv7at2hf-neon-imx6guf-toolchain-dunfell-19.0.sh
